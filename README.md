@@ -1,0 +1,2 @@
+# secure-cloud-data-de-duplication-with-efficent-re-encryption
+Data de duplication technique has been widely adopted by commercial cloud storage providers, which is both important and necessary in coping with the explosive growth of data. To further protect the security of users’ sensitive data in the outsourced storage mode, many secure data de duplication schemes have been designed and applied .
